@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsadIqbal
 - 👀 I’m interested in Web App
-- 🌱 I’m currently learning React and Node Js
+- 🌱 I’m currently Working on React and Node Js
 - 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me www.linkedin.com/in/asad-iqbal-699803234
 
